@@ -1,0 +1,10 @@
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTraining\bin\Debug\netstandard1.4\EssentialTraining.deps.json
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTraining\bin\Debug\netstandard1.4\EssentialTraining.dll
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTraining\bin\Debug\netstandard1.4\EssentialTraining.pdb
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTraining\obj\Debug\netstandard1.4\EssentialTraining.csproj.AssemblyReference.cache
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTraining\obj\Debug\netstandard1.4\EssentialTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTraining\obj\Debug\netstandard1.4\EssentialTraining.AssemblyInfoInputs.cache
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTraining\obj\Debug\netstandard1.4\EssentialTraining.AssemblyInfo.cs
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTraining\obj\Debug\netstandard1.4\EssentialTraining.csproj.CoreCompileInputs.cache
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTraining\obj\Debug\netstandard1.4\EssentialTraining.dll
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTraining\obj\Debug\netstandard1.4\EssentialTraining.pdb

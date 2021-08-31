@@ -1,0 +1,7 @@
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingApp\bin\Debug\EssentialTrainingApp.exe.config
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingApp\bin\Debug\EssentialTrainingApp.exe
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingApp\bin\Debug\EssentialTrainingApp.pdb
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.csproj.AssemblyReference.cache
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.exe
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.pdb

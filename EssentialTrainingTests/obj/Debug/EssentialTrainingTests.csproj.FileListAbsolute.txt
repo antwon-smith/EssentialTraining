@@ -1,0 +1,16 @@
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.dll
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.pdb
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\bin\Debug\EssentialTraining.dll
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\bin\Debug\EssentialTraining.pdb
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.AssemblyReference.cache
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CoreCompileInputs.cache
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CopyComplete
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.dll
+C:\Users\lesm\Downloads\Ex_Files_CSharpEssT_2\Ex_Files_CSharpEssT_2\Exercise Files\CH05\05-02\begin\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.pdb
